@@ -9,3 +9,4 @@ run the script with :
   streamilit run database.py
 
 enjoy the charts
+![Screenshot from 2023-12-04 19-25-59](https://github.com/FREEDuu/GameStatistics/assets/74873080/be27d5d5-b815-4d74-ab6c-e465ed136d21)
